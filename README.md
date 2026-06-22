@@ -1,29 +1,5 @@
 # Flip Spell
 
-A simple iPhone-friendly coin flip web app with:
-- Sun/Moon coin calls
-- Win/loss tracking
-- Win rate
-- Animated coin flip
-- Win/loss flair
-- Custom deck name and phrases
-- Local save using your browser
-- Home Screen support as a web app
+Updated fantasy coin flip web app with distinct Heads/Tails coin faces, a happy or sad cyclops reaction, score tracking, custom phrases, sounds, and iPhone Home Screen support.
 
-## How to use on iPhone
-
-1. Upload these files to a static web host such as GitHub Pages or Netlify.
-2. Open the hosted URL in Safari on your iPhone.
-3. Tap Share.
-4. Tap Add to Home Screen.
-5. Open Flip Spell from your Home Screen.
-
-## Files
-
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- icon-192.png
-- icon-512.png
-
-This is a personal fan utility. No official logos, art, or trademarks are included.
+To update an existing GitHub Pages version, upload all files in this folder to the repository and replace files with matching names. GitHub Pages may take a few minutes to refresh.
